@@ -3,20 +3,22 @@ import java.util.Scanner;
 
 public class LinearSearch {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        System.out.print("Enter a value to find: ");
-        int x = in.nextInt();
-        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int[] arr = { 13, 35, 65, 45, 76, 25, 86, 42, -11, 53, 87};
+        int value = 25;
+        int ans = linearSearch(arr, value);
         System.out.println(Arrays.toString(arr));
-        linearSearch(arr, x);
+        if(ans == -1)
+            System.out.println(value + " is not present.");
+        else System.out.println("Index of " +value+ ": " + ans);
     }
-    static void linearSearch(int[] arr, int value) {
-        for (int i = 0; i < arr.length; i++) {
-            if(arr[i] == value) {
-                System.out.println(value + " is present in array.");
-                break;
+    static int linearSearch(int[] arr, int value) {
+        if(arr.length == 0)
+            return -1;
+        for (int index = 0; index < arr.length; index++) {
+            if(arr[index] == value) {
+                return index;
             }
         }
-        System.out.println(value + " is not present in array.");
+        return -1;
     }
 }
