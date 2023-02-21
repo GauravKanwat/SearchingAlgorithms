@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f0d81276-7530-45ee-96d3-baf9b4a26a85" name="Changes" comment="Adding initial files">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinMaxIn1DArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MinMaxIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinNumberInArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SearchIn2DArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
