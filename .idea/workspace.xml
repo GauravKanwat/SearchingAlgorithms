@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0d81276-7530-45ee-96d3-baf9b4a26a85" name="Changes" comment="Adding initial files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
