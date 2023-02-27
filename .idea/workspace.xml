@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0d81276-7530-45ee-96d3-baf9b4a26a85" name="Changes" comment="Adding initial files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinMaxIn1DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinMaxIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,24 +32,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/media/gaurav/New Volume/Linux/Algorithms/SearchingAlgorithms",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.MinMaxIn2DArray">
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearch" />
+}]]></component>
+  <component name="RunManager" selected="Application.BinarySearchRecursion">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="SearchingAlgorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearchInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearchInString" />
+    <configuration name="BinarySearchRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchRecursion" />
       <module name="SearchingAlgorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchRecursion" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.MinMaxIn2DArray" />
         <item itemvalue="Application.MinMaxIn1DArray" />
         <item itemvalue="Application.SearchIn2DArray" />
-        <item itemvalue="Application.LinearSearchInString" />
-        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
